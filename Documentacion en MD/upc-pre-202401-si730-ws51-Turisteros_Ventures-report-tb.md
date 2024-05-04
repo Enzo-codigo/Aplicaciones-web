@@ -3529,7 +3529,13 @@ style="width:6.26772in;height:2.47222in" />
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 
-
+|              |        |                                          |                               |                     |                  |
+|--------------|--------|------------------------------------------|-------------------------------|---------------------|------------------|
+| Repository   | Branch | Commit ID                                | Commit Message                | Commit Message Body | Commited on date |
+| turisteando-front | feature1   | d99918ba2c01fece0472d89aafe2ca79f797b37c | Feature: Add files via upload | ---                 | 30/04/2024       |
+| turisteando-front | feature2   | a11d0295c0d7eb9be039d0cc72144b29096e5178 | Feature: Add files via upload | ---                 | 30/04/2024       |
+| turisteando-front | feature3   | 4f04b5f9df1cb02892cc81d92b6e0e0ccb5ce401 | Feature: Add files via upload | ---                 | 30/04/2024       |
+| turisteando-front | feature4   | 2c358e71bea680941dc4dd30e92060ae9f67dabb | Feature: Add files via upload | ---                 | 30/04/2024       |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
@@ -3537,7 +3543,9 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-  Se ha implementado la primera versión del front de nuestra página web, logrando terminar con varios de los user stories
+ ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290048929038386/image.png?ex=66377854&is=663626d4&hm=a30f374243d36572924f97e48b60c4f237161a027bc8ee61b48ff94419387884&=&format=webp&quality=lossless&width=2924&height=1610)
+
+ ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290586554663084/image.png?ex=663778d5&is=66362755&hm=bda0026a85d5e8d3daf029ab89d12a2ec1e23c9b751c544afe3669c8bee51093&=&format=webp&quality=lossless&width=1100&height=592)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review#####
 Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado en el repositorio.
