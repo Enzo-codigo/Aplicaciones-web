@@ -3527,7 +3527,13 @@ style="width:6.26772in;height:2.47222in" />
 |            |                                          | T011             | Implementar json          | El desarrollador implementa el json de datos para el login                                              | 4 horas             | Diego Acuña| Done   |
 | US23       | Ver métricas de rendimiento | T012             | Implementar métricas de rendimiento       | El desarrollador implementa la función para ver las métricas de rendimiento del guía                           | 4 horas          | Enzo Noblecilla | Done   |
 
-## Conclusiones:
+#### 5.2.2.3. Development Evidence for Sprint Review
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+Al ser el sprint 2, solo se estableció en la documentación las épicas e historias de usuario a trabajar (con los escenarios). Aún no se ha implementado el testing de las historias de usuario, las cuales se implementarán en Gerkhin.
 
 Conclusiones TB1:
 
@@ -3541,6 +3547,40 @@ Conclusiones TB1:
 - Reconocer de manera correcta los segmentos y el uso del método lean ux
   ayudó para que se elaboré un correcto reporte para la futura
   aplicación.
+
+  #### 5.2.2.5. Execution Evidence for Sprint Review
+
+  Se ha implementado la primera versión del front de nuestra página web, logrando terminar con varios de los user stories
+
+  #### 5.2.2.6. Services Documentation Evidence for Sprint Review Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado en el repositorio.
+
+  #### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+  #### 5.2.2.8. Team Collaboration Insights during Sprint
+
+  Conclusiones TB1:
+
+- Turisteando se podría posicionar como una aplicación para un uso poco
+  explorado y quizás exclusivo para el Perú.
+
+- La Landing page ayudará a captar la atención de los futuros usuarios
+  de Turisteando. A su vez se hizo un repaso de lo aprendido en cursos
+  anteriores.
+
+- Reconocer de manera correcta los segmentos y el uso del método lean ux
+  ayudó para que se elaboré un correcto reporte para la futura
+  aplicación.
+
+Conclusiones TP:
+
+- Turisteando esta teniendo las primeras implementacions en la nube con solo métodos FrontEnd.
+
+- Las funcionalidades de los US aún pueden ser mejorados en estilos y back end para hacerlos más coherentes con lo que se previo en primer lugar en los Mock Ups.
+
+- Las herramientas utilizadas como el Angular han podido facilitar el trabajo de realizar las interfaces.
+
+- En retrospectiva, los integrantes van a realizar una mejora continua con respecto a la variedad de los elementos interactivos con el usuario para que la UX/UI no sea perjudicial
+  para los usuarios.
 
 ## Bibliografía:
 
