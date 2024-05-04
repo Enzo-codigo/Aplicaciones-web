@@ -3239,13 +3239,27 @@ style="width:6.26772in;height:3.79167in" />
 
 ### 4.7.1. Class Diagrams.
 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
+![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234705011410337903/MainFinal.png?ex=6631b426&is=663062a6&hm=6f940bdc9acedb506ec7be86cb09248959778e1497ff9ac6758f0034939df3c1&)
 
 ### 4.7.2. Class Dictionary. 
 
-Aún están en desarrollo, ya que el grupo ha priorizado la documentación
-en general, así como el desarrollo del landing page.
+- **Evento**: Es el elemento del historial del usuario, la informacion de cada tour que pago y las caracteristicas del servicio con su fecha.
+- **Búsqueda**: En esta clase se encuentran las funciones para buscar y mostrar los tours disponibles, basados en los parametros del cliente.
+- **Cliente**: Es una cuenta de Cliente, usuario que quiere un servicio de tour, en esta clase se guarda su historial, junto con sus preferencias de busqueda.
+- **Reserva**: Son los datos de la reserva que el Cliente pide por un tour, informacion como si fue aceptado, id del cliente y del guia.
+- **Parametros**: Aqui guardamos el conjunto de caracteristica que el usuario pide antes de iniciar la busqueda
+- **Valoración**:Es la relevancia que posee un Guia, basado en los comentarios y calificacion de los Clientes
+- **Menú**:Contiene la informacion de la pagina principal, y todas las funciones que ofrece para cada tipo de Usuario
+- **Herramienta**: Contiene la informacion de las herramientas para promocionar los servicios del guia, o las busqueda de servicio.
+- **Usuario**: Clase padre de Cliente y Guia, contiene toda la informacion indispensable al crear una cuenta.
+- **Guia**:Contiene la informacion que se publicara del guia turistico.
+- **Tour**:Toda la informacion del servicio que el guia ofrecera.
+- **Mapa**:Informacion sobre el recorrido y los lugares que se visitaran
+- **Promocion**: Informacion de los eventos y promociones que el guia quiere ofrecer
+- **Pago**:En esta clase se guarda todo lo relacionado con el pago, los descuentos y parte de nuestra startup
+- **Lugar**:Informacion de las ubicaciones que se visitaran en el tour
+- **Comentario**:Descripcion de la opinion del cliente y su numero de estrellas
+- **Valoracion**:Relevancia de un Guia por los comentarios de los clientes
 
 ## 4.8. Database Design. 
 
