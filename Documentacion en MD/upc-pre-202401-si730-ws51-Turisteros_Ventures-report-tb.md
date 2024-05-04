@@ -3504,7 +3504,28 @@ style="width:6.26772in;height:2.47222in" />
 | Sprint Goal & User Stories         |                                                                                                                                                                                                                                                                                                      |
 | Sprint n Goal                      | Crear la primera versión de nuestro Front End y que las respectivas partes esten lanzados en un hosting en la nube. Consumiendo un json server externo.                                                                                                                              |
 | Sprint n Velocity                  | 7                                                                                                                                                                                                                                                                                                    |
-| Sum of Story Points                | 11                                         
+| Sum of Story Points                | 11            
+
+
+#### 5.2.2.2. Sprint Backlog 2
+
+|            |                                          |                  |                                          |                                                                                                                  |                    |                    |        |
+|------------|------------------------------------------|------------------|------------------------------------------|------------------------------------------------------------------------------------------------------------------|--------------------|--------------------|--------|
+| Sprint \#  | Sprint 2                                 |                  |                                          |                                                                                                                  |                    |                    |        |
+| User Story |                                          | Work-Item / Task |                                          |                                                                                                                  |                    |                    |        |
+| ID         | Title                                    | ID               | Title                                    | Description                                                                                                      | Estimation (Hours) | Assigned To        | Status |
+| US03       | Registrar guía      | T001             | Visualizar los guías     | Se tiene que sacar la información de un json server externo y mostrarlo el FrontEnd                                           | 3 horas            | Miguel Gomez | Done   |
+|            |                                          | T002             | Añadir Guías          | Se tienen que agregar campos para poder agregar atributos simples de los guías, que serán relevantes para el negocio                                                                   | 4 horas          | Miguel Gomez         | Done   |
+| US27       | Ver misión y visión del proyecto         | T003             | Implementar la opción de misión y visión | El desarrollador implementa la opción y lógica para la creación de los cuadros desplegables para misión y visión | 2 horas            | Alexander Cantoral | Done   |
+| US28       | Revisar los servicios ofrecidos          | T004             | Implementar la opción de servicios       | Implementar los componentes y lógica para el botón atajo de servicio en el header                                | 1 hora             | Alexander Cantoral | Done   |
+|            |                                          | T005             | Implementar los servicios                | Implementación de los componentes y vista de servicios en el main                                                | 1 hora             | Alexander Cantoral | Done   |
+| US29       | Obtener contacto con los administradores | T006             | Implementar la opción de contacto        | El desarrollador implementa la opción-atajo de contacto del landing page, en el header                           | 0.5 horas          | Alexander Cantoral | Done   |
+|            |                                          | T007             | Implementar sección de contacto          | El desarrollador implementa la sección de contacto del landing page                                              | 1 hora             | Alexander Cantoral | Done   |
+| US01       | Usuario quiere registrarse en la aplicación | T008             | Implementar el registro del usuario        | El desarrollador implementa la función de registro                           | 7 horas          | Max Paitan | In process   |
+|            |                                          | T009             | Implementar json          | El desarrollador implementa el json de datos para el registro                                              | 4 horas             | Max Paitan | Done   |
+| US05       | Iniciar sesión | T010             | Implementar el login del usuario        | El desarrollador implementa la función de login                           | 7 horas          | Max Paitan | In process   |
+|            |                                          | T011             | Implementar json          | El desarrollador implementa el json de datos para el login                                              | 4 horas             | Alexander Cantoral | Done   |
+| US23       | Ver métricas de rendimiento | T012             | Implementar métricas de rendimiento       | El desarrollador implementa la función para ver las métricas de rendimiento del guía                           | 4 horas          | Max Paitan | Done   |
 
 ## Conclusiones:
 
