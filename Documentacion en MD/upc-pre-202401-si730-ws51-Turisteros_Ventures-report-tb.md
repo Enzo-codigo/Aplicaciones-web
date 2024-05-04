@@ -3239,7 +3239,7 @@ style="width:6.26772in;height:3.79167in" />
 
 ### 4.7.1. Class Diagrams.
 
-![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234705011410337903/MainFinal.png?ex=6631b426&is=663062a6&hm=6f940bdc9acedb506ec7be86cb09248959778e1497ff9ac6758f0034939df3c1&)
+![Class Diagram](https://cdn.discordapp.com/attachments/1226580112670064641/1234705011410337903/MainFinal.png?ex=66365166&is=6634ffe6&hm=9ae67955e1fd37b061362e6db2f0b6589eb23facd8c7b753dc514493ce144bca&)
 
 ### 4.7.2. Class Dictionary. 
 
