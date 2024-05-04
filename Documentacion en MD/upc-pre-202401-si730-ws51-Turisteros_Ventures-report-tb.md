@@ -3548,7 +3548,8 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
  ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290586554663084/image.png?ex=663778d5&is=66362755&hm=bda0026a85d5e8d3daf029ab89d12a2ec1e23c9b751c544afe3669c8bee51093&=&format=webp&quality=lossless&width=1100&height=592)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review#####
-Dado que el desarrollo del front, de acuerdo a los user stories establecidos, se han realizado de forma individual, no hemos trabajado en el repositorio.
+
+![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236291636238094356/image.png?ex=663779cf&is=6636284f&hm=2a3f788a9d43ba6cc098b1e9b25217cb9dcccbdb7869daccc30d67ccec8b9735&=&format=webp&quality=lossless&width=1100&height=592)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
