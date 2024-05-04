@@ -3641,3 +3641,5 @@ Conclusiones TP:
   
 - Anexo 11: Repositorio github en el que se trabajará: <https://github.com/orgs/Turisteros-Ventures/repositories>
 
+- Anexo 12: Video de exposicion: <https://upcedupe-my.sharepoint.com/personal/u202119447_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202119447%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi730%2DWS51%2D%20%20Turisteros%20Ventures%2Dexpo%2Dtbp%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Ea8e1434f%2Dd112%2D4d46%2Da8bc%2D18a64720f325>
+
