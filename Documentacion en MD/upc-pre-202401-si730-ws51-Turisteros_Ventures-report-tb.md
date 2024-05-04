@@ -3557,6 +3557,14 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
+![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293184733057054/image.png?ex=66377b40&is=663629c0&hm=e5a0d67eb088f1e5fb9eee9421560b5356fffc49f696528286fc809cc027598b&=&format=webp&quality=lossless&width=1100&height=592)
+
+![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293297962487830/image.png?ex=66377b5b&is=663629db&hm=f436314c10c451ce1ec182114bc703c578e332c10b53956421e33bf97e211e45&=&format=webp&quality=lossless&width=1100&height=592)
+
+![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293455681163344/image.png?ex=66377b81&is=66362a01&hm=729404629b38c41ebb8a109446295141fa89da5fddf8dd8f28a7fae17a9c2aac&=&format=webp&quality=lossless&width=1100&height=572)
+
+![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293573041721374/image.png?ex=66377b9d&is=66362a1d&hm=4c0b842bd0a5b762f79182cb4e93a484ea1fc6e5d7b59cd2957f9ff61f0a0c12&=&format=webp&quality=lossless&width=2996&height=1610)
+
   Conclusiones TB1:
 
 - Turisteando se podría posicionar como una aplicación para un uso poco
