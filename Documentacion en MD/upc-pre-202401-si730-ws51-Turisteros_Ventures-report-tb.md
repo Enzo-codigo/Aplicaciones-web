@@ -3612,3 +3612,4 @@ Conclusiones TP:
 
 > [<u>https://emprendimiento-ballenita.github.io/LandingPage/</u>](https://emprendimiento-ballenita.github.io/LandingPage/)
 > - Anexo 6: Repositorio: [<u>https://github.com/Enzo-codigo/Aplicaciones-web.git</u>](https://github.com/Enzo-codigo/Aplicaciones-web.git)
+> - Anexo 7: Db server: <https://my-json-server.typicode.com/Turisteros-Ventures/db-server>
