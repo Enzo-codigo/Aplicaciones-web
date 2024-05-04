@@ -3489,6 +3489,10 @@ style="width:6.26772in;height:2.47222in" />
 
 <img src="./media/image5.png" style="width:6.26772in;height:3.375in" />
 
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2
+
+
 ## Conclusiones:
 
 Conclusiones TB1:
