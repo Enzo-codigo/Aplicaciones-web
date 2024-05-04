@@ -3608,8 +3608,7 @@ Conclusiones TP:
 > [<u>https://www.figma.com/file/FfXokvEK3vkYMkZ10HAmQo/Untitled?type=design&node-id=4%3A2&mode=design&t=nTyTTrmSMfgXz2tO-1</u>](https://www.figma.com/file/FfXokvEK3vkYMkZ10HAmQo/Untitled?type=design&node-id=4%3A2&mode=design&t=nTyTTrmSMfgXz2tO-1)
 <!-- -->
 
-- Anexo 5: Landing Page desplegada
-
-> [<u>https://emprendimiento-ballenita.github.io/LandingPage/</u>](https://emprendimiento-ballenita.github.io/LandingPage/)
+- Anexo 5: Landing Page desplegada: <https://miguel26112001.github.io>
+  
 > - Anexo 6: Repositorio: [<u>https://github.com/Enzo-codigo/Aplicaciones-web.git</u>](https://github.com/Enzo-codigo/Aplicaciones-web.git)
 > - Anexo 7: Db server: <https://my-json-server.typicode.com/Turisteros-Ventures/db-server>
