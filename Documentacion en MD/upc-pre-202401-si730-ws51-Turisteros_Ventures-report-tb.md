@@ -3543,6 +3543,8 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
+![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236292281770840105/826cfa4b-032b-4107-99df-962c477e1658.png?ex=66377a69&is=663628e9&hm=2d3455df0b7247165aa310397aa631e2b966c1bf68372bd09d7ba23835461700&=&format=webp&quality=lossless&width=1236&height=1374)
+
  ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290048929038386/image.png?ex=66377854&is=663626d4&hm=a30f374243d36572924f97e48b60c4f237161a027bc8ee61b48ff94419387884&=&format=webp&quality=lossless&width=2924&height=1610)
 
  ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290586554663084/image.png?ex=663778d5&is=66362755&hm=bda0026a85d5e8d3daf029ab89d12a2ec1e23c9b751c544afe3669c8bee51093&=&format=webp&quality=lossless&width=1100&height=592)
