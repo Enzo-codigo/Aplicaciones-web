@@ -3630,4 +3630,11 @@ Conclusiones TP:
 - Anexo 5: Landing Page desplegada: <https://miguel26112001.github.io>
   
 > - Anexo 6: Repositorio: [<u>https://github.com/Enzo-codigo/Aplicaciones-web.git</u>](https://github.com/Enzo-codigo/Aplicaciones-web.git)
+
 > - Anexo 7: Db server: <https://my-json-server.typicode.com/Turisteros-Ventures/db-server>
+
+- Anexo 8: Enlace a los To Be Scenario Mapping <https://miro.com/app/board/uXjVMgbWJ2U=/>
+
+- Anexo 9: Enlace Class Diagram <https://lucid.app/lucidchart/48f42b15-c7af-49cc-b929-2107cd6ceb02/edit?invitationId=inv_c65ac2b0-5736-408c-9177-9cd9f3ad41b5&page=0_0#>
+
+- Anexo 10: Enlace a los As Is Scenario Mapping <https://miro.com/app/board/uXjVMgiJpdc=/?share_link_id=453813396971>
