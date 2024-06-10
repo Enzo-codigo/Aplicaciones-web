@@ -3569,8 +3569,6 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 5.2.3.1. Spring Planning 3.
 <img src="./media/image72.png"/>
-
- 5.2.3.2. Sprint Backlog 3. 
  <img src="./media/image73.png"/>
   <img src="./media/image74.png"/>
    <img src="./media/image75.png"/>
