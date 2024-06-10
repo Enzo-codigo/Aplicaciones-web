@@ -3543,11 +3543,12 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 
 #### 5.2.2.5. Execution Evidence for Sprint Review
 
-![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236292281770840105/826cfa4b-032b-4107-99df-962c477e1658.png?ex=66377a69&is=663628e9&hm=2d3455df0b7247165aa310397aa631e2b966c1bf68372bd09d7ba23835461700&=&format=webp&quality=lossless&width=1236&height=1374)
+<img src="./media/image67.png"/>
 
- ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290048929038386/image.png?ex=66377854&is=663626d4&hm=a30f374243d36572924f97e48b60c4f237161a027bc8ee61b48ff94419387884&=&format=webp&quality=lossless&width=2924&height=1610)
+<img src="./media/image68.png"/>
 
- ![Imagen](https://media.discordapp.net/attachments/1226580112670064641/1236290586554663084/image.png?ex=663778d5&is=66362755&hm=bda0026a85d5e8d3daf029ab89d12a2ec1e23c9b751c544afe3669c8bee51093&=&format=webp&quality=lossless&width=1100&height=592)
+<img src="./media/image69.png"/>
+<img src="./media/image70.png"/>
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review#####
 
@@ -3556,7 +3557,7 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
-
+<img src="./media/image70.png"/>
 ![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293184733057054/image.png?ex=66377b40&is=663629c0&hm=e5a0d67eb088f1e5fb9eee9421560b5356fffc49f696528286fc809cc027598b&=&format=webp&quality=lossless&width=1100&height=592)
 
 ![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293297962487830/image.png?ex=66377b5b&is=663629db&hm=f436314c10c451ce1ec182114bc703c578e332c10b53956421e33bf97e211e45&=&format=webp&quality=lossless&width=1100&height=592)
@@ -3564,6 +3565,84 @@ Al ser el sprint 2, solo se estableció en la documentación las épicas e histo
 ![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293455681163344/image.png?ex=66377b81&is=66362a01&hm=729404629b38c41ebb8a109446295141fa89da5fddf8dd8f28a7fae17a9c2aac&=&format=webp&quality=lossless&width=1100&height=572)
 
 ![imagen](https://media.discordapp.net/attachments/1226580112670064641/1236293573041721374/image.png?ex=66377b9d&is=66362a1d&hm=4c0b842bd0a5b762f79182cb4e93a484ea1fc6e5d7b59cd2957f9ff61f0a0c12&=&format=webp&quality=lossless&width=2996&height=1610)
+5.2.3. Sprint 3 
+
+5.2.3.1. Spring Planning 3.
+<img src="./media/image72.png"/>
+
+ 5.2.3.2. Sprint Backlog 3. 
+ <img src="./media/image73.png"/>
+  <img src="./media/image74.png"/>
+   <img src="./media/image75.png"/>
+   
+    
+ 
+5.2.2.3. Development Evidence for Sprint Review
+5.2.3.4. Testing Suite Evidence for Sprint Review. 
+Al ser el sprint 3, solo se estableció en la documentación las épicas e historias de usuario a trabajar (con los escenarios). Aún no se ha implementado el testing de las historias de usuario, las cuales se implementarán en Gerkhin.
+
+5.2.3.5. Execution Evidence for Sprint Review. 
+
+
+5.2.3.6. Services Documentation Evidence for Sprint Review. 
+
+
+5.2.3.7. Software Deployment Evidence for Sprint Review. 
+
+
+5.2.3.8. Team Collaboration Insights during Sprint. 
+
+
+5.3. Validation Interviews.
+ 5.3.1. Diseño de Entrevistas
+
+Para asegurar una validación efectiva, diseñamos entrevistas estructuradas que permitan a los usuarios interactuar con el producto y proporcionar feedback detallado. El diseño de las entrevistas incluyó los siguientes elementos:
+
+Objetivo: Validar la usabilidad y funcionalidad de la landing page y las aplicaciones.
+Participantes: Usuarios pertenecientes a los segmentos objetivo, es decir, guias turísticos o turistas.
+
+Formato de la Entrevista:
+Introducción al proyecto y objetivos de la entrevista.
+Tareas específicas para que los usuarios realicen en la landing page y las aplicaciones.
+Preguntas abiertas para recopilar feedback cualitativo.
+Después de explorar el frontend, ¿qué aspectos te resultaron más útiles e intuitivos? ¿Hay algo que te haya confundido o que crees que podría mejorarse?
+¿Cómo fue tu experiencia al realizar [acción] de la aplicación? ¿Encontraste algún problema durante el proceso?
+¿Tienes alguna sugerencia o comentario adicional sobre la experiencia general de uso de Turisteros Ventures?
+. 5.3.2. Registro de Entrevistas. 
+Segmento de turistas
+1.
+Nombre: Katya
+Sexo: Femenino
+Edad: 60
+Link: [entrevista a katya.mp4](https://drive.google.com/file/d/15jE9K6yS9oPfcnz-QkZJKKncDZ_wuO9d/view)
+Resumen: En conclusión, la entrevista revela una experiencia general positiva del turista con la interfaz y el funcionamiento del front end para el formulario, donde nos menciona la preocupación acerca de la autenticación de los guias turisticos 
+
+5.3.3. Evaluaciones según heurísticas. 
+Evaluaciones según heurísticas
+Nombre de la App a Evaluar:
+Turisteros Ventures
+Tareas a Evaluar:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+Mejorar la autenticación del guia turistico
+<img src="./media/image76.png"/>
+Descripción de problemas:
+Problema #1: No hay una opción que permita Reprogramar al usuario la cita
+Severidad: 1
+Protección del usuario el turista quiere mejor protección y seguridad hacia los guías turísticos 
+
+ 
+
+5.4. Video About-the-Product.
+El video "Acerca del Producto" tiene como objetivo presentar tanto a los visitantes del frontend como a los usuarios de las Aplicaciones una visión general del modelo de negocio y las características principales de nuestros productos de software. 
+El contenido del video incluye:
+Un video acerca de la parte del frontend
+
+
+Datos del video:
+ 
+
+URL de la versión en Google Drive: [video about the product.mp4](https://drive.google.com/file/d/1C4JnYRlB5Ioysj9EwoXqgD-bPpUf_J0L/view)
+Duración del Video: 1:41
 
   Conclusiones TB1:
 
@@ -3588,6 +3667,8 @@ Conclusiones TP:
 
 - En retrospectiva, los integrantes van a realizar una mejora continua con respecto a la variedad de los elementos interactivos con el usuario para que la UX/UI no sea perjudicial
   para los usuarios.
+Conclusiones TB2:
+-Turisteando está teniendo las primeras implementaciones en la base de datos
 
 ## Bibliografía:
 
